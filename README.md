@@ -5,3 +5,4 @@ Melter Virus is a harmless fake virus that melts the screen, makes flashes and s
 # Info
 
 everything is false and nothing endangers your pc
+the code was done entirely by me, you can find the vsproj with the .cs program and the configs just above
