@@ -7,3 +7,19 @@ everything is false and nothing endangers your pc
 the code was done entirely by me. Can you leave a star to support me ?
 
 
+# Release
+
+The V1 of the Melter Was Posted. 
+Features : 
+- Creepy Image Spams
+- The screen background
+- Texts Spams
+- shrill spam sounds
+- cmd and taskmgr crash
+- the only way out is to restart
+
+# Informations
+
+Language: C#
+Tool: VS Code 22
+Total lines: 78
