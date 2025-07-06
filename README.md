@@ -28,3 +28,7 @@ Total lines: 78
 # VirusTotal 👌😂
 
 ![image](https://github.com/user-attachments/assets/f2df647c-e78c-477d-ba41-1d45fa4e7d78)
+proof that it doesn't matter
+
+Who is this bastard? 👇
+![image](https://github.com/user-attachments/assets/e1e96b6e-9965-4345-b4c2-11dad96cc17d)
